@@ -4,7 +4,7 @@ function Introducao() {
 
     return (
         <>
-            batata
+            Teste 1
         </>
     )
 }

@@ -2,7 +2,7 @@ header {
     background-color: #000000;
     color: white;
     text-align: center;
-    border-bottom: 4px solid #238faf;
+    border-bottom: 4px solid #2c4632;
     padding: 1em;
 }
 
@@ -18,9 +18,9 @@ nav {
 }
 
 a {
+    min-width: 50px;
     text-decoration: none;
-    color: #FFFFFF;
-    border: 3px solid #238faf;
+    border: 3px solid #2c4632;
     border-radius: 8px;
     padding: 4px;
     transition: 0.2s;
@@ -28,6 +28,6 @@ a {
 
 a:hover {
     scale: 110%;
-    background-image: url('https://media.tenor.com/OJK9HzEzRO8AAAAM/dancing.gif');
+    background-image: url('https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif');
     background-size: 50px;
 }

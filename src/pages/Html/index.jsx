@@ -4,7 +4,7 @@ function HTML() {
 
     return (
         <>
-        cenoura
+            Teste 2
         </>
     )
 }
