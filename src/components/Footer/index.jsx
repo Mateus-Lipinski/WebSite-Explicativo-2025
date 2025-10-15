@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <footer>
-            &copy; Todos os direitos reservados - Mateus Lipinski Matias
+            &copy; 2025 Todos os direitos reservados - Mateus Lipinski Matias
         </footer>
     )
 }
