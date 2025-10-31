@@ -1,11 +1,10 @@
 import './style.css'
-import { Link, Links } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function Header() {
     
     return (
         <header>
-            <div id='batata'></div>
             <h1>WebSite Explicativo</h1>
             <nav>
                 <Link to={'/'}>Introdução</Link>
