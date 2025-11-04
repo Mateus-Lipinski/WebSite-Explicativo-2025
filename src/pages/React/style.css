@@ -1,0 +1,15 @@
+.conteudoCartao {
+    border: 3px solid #2c4632;
+    border-radius: 16px;
+    padding: 6px;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: 0.2s;
+}
+
+.conteudoCartao:hover {
+    scale: 101%;
+    background-image: url('https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif');
+    background-size: 200px;
+}
